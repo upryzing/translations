@@ -17,7 +17,7 @@
   "login": {
     "title": "Login",
     "welcome": "Welcome!",
-    "subtitle": "Sign into Revolt",
+    "subtitle": "Sign into Upryzing",
     "welcome2": "Hello!",
     "subtitle2": "Create an account",
     "register": "Register",
@@ -42,7 +42,7 @@
     "reset": "Reset password",
     "set_password": "Set new password",
     "remembered": "Go back to login",
-    "new": "New to Revolt?",
+    "new": "New to Upryzing?",
     "existing": "Already have an account?",
     "create": "Create a new account",
     "missing_verification": "Didn't receive an email?",
@@ -86,17 +86,17 @@
     },
     "home": {
       "directs": "Direct Messages",
-      "join-testers": "Join the testers server",
+      "join-testers": "Join the Upryzing Garden",
       "join-testers_desc": "You can report issues and discuss improvements with us directly here.",
-      "goto-testers": "Go to the testers server",
+      "goto-testers": "Go to the Upryzing Garden",
       "goto-testers_desc": "You can report issues and discuss improvements with us directly here.",
-      "donate": "Donate to Revolt",
+      "donate": "Donate to Upryzing",
       "donate_desc": "Support the project by donating - thank you!",
-      "feedback": "Give feedback on Revolt",
+      "feedback": "Give feedback on Upryzing",
       "feedback_desc": "Let us know how we can improve our app by giving us feedback.",
       "settings": "Open settings",
       "settings-tooltip": "You can also right-click the user icon in the top left, or left click it if you're already home.",
-      "discover": "Discover Revolt",
+      "discover": "Discover Upryzing",
       "discover_desc": "Find a community based on your hobbies or interests.",
       "group": "Create a group",
       "group_desc": "Invite all of your friends, some cool bots, and throw a big party."
@@ -181,8 +181,8 @@
         "bot": "Bot",
         "bridge": "bridge",
         "bridged": "Message was sent on another platform",
-        "new_to_revolt": "New to Revolt",
-        "new_to_server": "New to this server",
+        "new_to_upryzing": "New to Upryzing",
+        "new_to_space": "New to this space",
         "team": "Official Communication",
         "user_timed_out": "User is timed out for {{time}}.",
         "notifications": {
@@ -262,7 +262,7 @@
             "disable": "Disable Account",
             "disable_description": "You won't be able to access your account unless you contact support - however, your data will not be deleted.",
             "delete": "Mark Account for Deletion",
-            "delete_still_own_servers": "Cannot delete account until servers are deleted or transferred",
+            "delete_still_own_spaces": "Cannot delete account until spaces are deleted or transferred",
             "delete_description": "Your account and all of your data (including your messages and friends list) will be queued for deletion. A confirmation email will be sent - you can cancel this within 7 days by contacting support."
           }
         },
@@ -287,7 +287,7 @@
           "title": "Voice Settings",
           "input_device": "Microphone",
           "output_device": "Speaker / Headset",
-          "tip_retry": "You didn't give Revolt permission to access your microphone. Please {{retryBtn}}.",
+          "tip_retry": "You didn't give Upryzing permission to access your microphone. Please {{retryBtn}}.",
           "tip_grant_permission": "You need to grant permission to access audio settings.",
           "device_label_NA": "N/A",
           "button_retry": "retry",
@@ -423,7 +423,7 @@
           "private_bot_tip": "This bot is private. Only you can invite it.",
           "public_bot": "Public Bot",
           "profile": "Bot profile",
-          "public_bot_desc": "If this is enabled, other users can add this bot to servers and group messages.",
+          "public_bot_desc": "If this is enabled, other users can add this bot to spaces and group messages.",
           "interactions_url": "Interactions URL",
           "reserved": "Note: this field is reserved for the future."
         },
@@ -466,12 +466,12 @@
               "description": "Navigate to the next channel."
             },
             "navigate_server_up": {
-              "title": "Navigate to the previous server",
-              "description": "Navigate to the previous server."
+              "title": "Navigate to the previous space",
+              "description": "Navigate to the previous space."
             },
             "navigate_server_down": {
-              "title": "Navigate to the next server",
-              "description": "Navigate to the next server."
+              "title": "Navigate to the next space",
+              "description": "Navigate to the next space."
             },
             "messaging_edit_previous_message": {
               "title": "Edit previous message",
@@ -523,7 +523,7 @@
           "title": "Feedback",
           "description": "Submit feedback",
           "suggest": "Submit feature suggestion",
-          "suggest_desc": "Suggest new Revolt features on GitHub discussions.",
+          "suggest_desc": "Suggest new Upryzing features on GitHub.",
           "issue": "Create a new issue",
           "issue_desc": "To help us more easily triage issues, you can create an issue on GitHub.",
           "bug": "Bug Tracker",
@@ -547,7 +547,7 @@
       "server_pages": {
         "overview": {
           "title": "Overview",
-          "name": "Server Name",
+          "name": "Space Name",
           "description": "Channel Description",
           "system_messages": "System Message Channels"
         },
@@ -601,7 +601,7 @@
       },
       "permissions": {
         "default_role": "Default",
-        "server": "Server Permissions",
+        "server": "Space Permissions",
         "channel": "Channel Permissions",
         "create_role": "Create a new role",
         "role_name": "Role Name",
@@ -638,8 +638,8 @@
         "reconnecting": "Reconnecting…"
       },
       "server-badges": {
-        "official": "Official Server",
-        "verified": "Verified Server"
+        "official": "Official Space",
+        "verified": "Verified Space"
       },
       "modals": {
         "error": "An error occurred!",
@@ -695,7 +695,7 @@
         },
         "changelogs": {
           "title": "Changelogs",
-          "description": "Read about updates to Revolt.",
+          "description": "Read about updates to Upryzing.",
           "older": "View older updates"
         },
         "out_of_date": {
@@ -720,7 +720,7 @@
           "by_name": "Report {{name}}",
           "reason": "Reason",
           "reported": "Reported",
-          "thank_you": "Thank you for helping to keep Revolt safe. We will review your report as soon as possible.",
+          "thank_you": "Thank you for helping to keep Upryzing safe. We will review your report as soon as possible.",
           "block_user": "Would you like to block this user?",
           "additional_context": "Additional Information",
           "no_reason": "No reason specified / other reason",
@@ -776,11 +776,11 @@
           "profile": "Profile",
           "mutual_friends": "Mutual Friends",
           "mutual_groups": "Mutual Groups",
-          "mutual_servers": "Mutual Servers",
+          "mutual_servers": "Mutual Spaces",
           "empty": "It's a bit empty in here…",
           "no_users": "No mutual friends",
           "no_groups": "No mutual groups",
-          "no_servers": "No mutual servers",
+          "no_servers": "No mutual spaces",
           "sub": {
             "badges": "Badges",
             "information": "Information",
@@ -811,7 +811,7 @@
       "requires_online": "You need to be online to view this.",
       "invite": {
         "invited_by": "Invited by {{user}}",
-        "login": "Login to Revolt",
+        "login": "Login to Upryzing",
         "accept": "Accept Invite",
         "user_count": "{{member_count}} users",
         "invalid": "Invalid invite!",
@@ -823,7 +823,7 @@
       "copy_selection": "Copy selection",
       "copy_text": "Copy text",
       "copy_uid": "Copy user ID",
-      "copy_sid": "Copy server ID",
+      "copy_sid": "Copy space ID",
       "copy_cid": "Copy channel ID",
       "copy_mid": "Copy message ID",
       "copy_message_link": "Copy message link",
@@ -863,10 +863,10 @@
       "clear_status": "Clear status",
       "set_custom_status": "Set a custom status",
       "leave_group": "Leave group",
-      "leave_server": "Leave server",
+      "leave_server": "Leave space",
       "close_dm": "Close DM",
-      "report_server": "Report server",
-      "delete_server": "Delete server",
+      "report_server": "Report space",
+      "delete_server": "Delete space",
       "edit_identity": "Edit identity",
       "edit_your_identity": "Edit your identity",
       "delete_channel": "Delete channel",
@@ -875,7 +875,7 @@
       "create_invite": "Create invite",
       "open_notification_options": "Notification options",
       "open_channel_settings": "Channel settings",
-      "open_server_settings": "Server settings",
+      "open_server_settings": "Space settings",
       "open_group_settings": "Group settings"
     },
     "permissions": {
@@ -962,8 +962,8 @@
       "d": "Allows members to create, edit and delete channels."
     },
     "ManageServer": {
-      "t": "Manage Server",
-      "d": "Allows members to change this server's name, description, icon and other related information."
+      "t": "Manage Space",
+      "d": "Allows members to change this space's name, description, icon and other related information."
     },
     "ManagePermissions": {
       "t": "Manage Permissions",
@@ -979,15 +979,15 @@
     },
     "KickMembers": {
       "t": "Kick Members",
-      "d": "Allows members to remove members from this server. Kicked members may rejoin with an invite."
+      "d": "Allows members to remove members from this space. Kicked members may rejoin with an invite."
     },
     "BanMembers": {
       "t": "Ban Members",
-      "d": "Allows members to permanently remove members from this server."
+      "d": "Allows members to permanently remove members from this space."
     },
     "TimeoutMembers": {
       "t": "Timeout Members",
-      "d": "Allows members to temporarily prevent users from interacting with the server."
+      "d": "Allows members to temporarily prevent users from interacting with the space."
     },
     "AssignRoles": {
       "t": "Assign Roles",
@@ -995,7 +995,7 @@
     },
     "ChangeNickname": {
       "t": "Change Nickname",
-      "d": "Allows members to change their nickname on this server."
+      "d": "Allows members to change their nickname on this space."
     },
     "ManageNicknames": {
       "t": "Manage Nicknames",
@@ -1003,11 +1003,11 @@
     },
     "ChangeAvatar": {
       "t": "Change Avatar",
-      "d": "Allows members to change their avatar on this server."
+      "d": "Allows members to change their avatar on this space."
     },
     "RemoveAvatars": {
       "t": "Remove Avatars",
-      "d": "Allows members to remove the server avatars of other members on this server."
+      "d": "Allows members to remove the space avatars of other members on this space."
     },
     "ViewChannel": {
       "t": "View Channel",
