@@ -159,8 +159,8 @@
                 "user_timed_out": "L'usuari està bloquejat durant {{time}}.",
                 "bridged": "Missatge enviat des d'una altra plataforma",
                 "team": "Comunicat oficial",
-                "new_to_revolt": "Nou a Revolt",
-                "new_to_server": "Nou en aquest servidor",
+                "new_to_upryzing": "Nou a Revolt",
+                "new_to_space": "Nou en aquest servidor",
                 "reactions": {
                     "others_reacted": "{{userlist}} i {{count}} més hi han reaccionat",
                     "unknown_reacted": "{{count}} persones hi han reaccionat",

@@ -418,8 +418,8 @@
                     "single_reacted": "1 osoba reagovala",
                     "people_reacted": "{{people}} reagovali"
                 },
-                "new_to_server": "Nový na tomto serveri",
-                "new_to_revolt": "Nový v Revolte"
+                "new_to_space": "Nový na tomto serveri",
+                "new_to_upryzing": "Nový v Revolte"
             },
             "categories": {
                 "members": "Členovia",

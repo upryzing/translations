@@ -329,14 +329,14 @@
                 "user_timed_out": "Usr is tymed owt for {{time}}.",
                 "bridged": "Myessage was sent on anuther platfowm",
                 "team": "Ofishuwl Kumunyikayshun",
-                "new_to_revolt": "Nyu t-tu Revolt",
+                "new_to_upryzing": "Nyu t-tu Revolt",
                 "reactions": {
                     "others_reacted": "{{userlist}} and {{count}} uthers weacted",
                     "unknown_reacted": "{{count}} peepw weacted",
                     "single_reacted": "1 person weacted",
                     "people_reacted": "{{people}} weacted"
                 },
-                "new_to_server": "Nyu t-tu this server"
+                "new_to_space": "Nyu t-tu this server"
             },
             "groups": {
                 "name": "Gwoup Name",

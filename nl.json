@@ -153,8 +153,8 @@
                 "user_timed_out": "Gebruiker heeft een time-out van {{time}}.",
                 "team": "Officiële Communicatie",
                 "bridged": "Bericht is gestuurd op een ander platform",
-                "new_to_revolt": "Nieuw op Revolte",
-                "new_to_server": "Nieuw op deze server",
+                "new_to_upryzing": "Nieuw op Revolte",
+                "new_to_space": "Nieuw op deze server",
                 "reactions": {
                     "others_reacted": "{{userlist}} en {{count}} anderen reageerden",
                     "unknown_reacted": "{{count}} mensen reageerden",

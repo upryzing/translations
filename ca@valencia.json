@@ -158,8 +158,8 @@
                 },
                 "user_timed_out": "Usuari castigat per {{time}}.",
                 "bridged": "El missatge fou enviat en una altra plataforma",
-                "new_to_revolt": "Nou en Revolt",
-                "new_to_server": "Nou en este servidor",
+                "new_to_upryzing": "Nou en Revolt",
+                "new_to_space": "Nou en este servidor",
                 "reactions": {
                     "others_reacted": "{{userlist}} i {{count}} més reaccionaren",
                     "unknown_reacted": "{{count}} persones reaccionaren",

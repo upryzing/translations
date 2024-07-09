@@ -171,8 +171,8 @@
                     "others_reacted": "{{userlist}} และคนอื่นอีก {{count}} ได้ตอบสนอง",
                     "people_reacted": "{{people}} ได้ตอบสนอง"
                 },
-                "new_to_server": "สมาชิกใหม่ของเซิร์ฟเวอร์",
-                "new_to_revolt": "สนใจเข้า Revolt"
+                "new_to_space": "สมาชิกใหม่ของเซิร์ฟเวอร์",
+                "new_to_upryzing": "สนใจเข้า Revolt"
             },
             "categories": {
                 "conversations": "บทสนทนา",

@@ -154,8 +154,8 @@
                 "user_timed_out": "Användaren har tagit ut sin tid för {{time}}.",
                 "bridged": "Meddelandet skickades på en annan plattform",
                 "team": "Officiell kommunikation",
-                "new_to_revolt": "Nytt för Revolt",
-                "new_to_server": "Ny til denna server",
+                "new_to_upryzing": "Nytt för Revolt",
+                "new_to_space": "Ny til denna server",
                 "reactions": {
                     "people_reacted": "{{people}} reagerade",
                     "others_reacted": "{{userlist}} och {{count}} andra reagerade",

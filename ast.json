@@ -179,7 +179,7 @@
                 "bot": "Bot",
                 "bridge": "ponte",
                 "bridged": "El mensaxe foi unviáu en otra plataforma",
-                "new_to_server": "Nuevu nesti servidor",
+                "new_to_space": "Nuevu nesti servidor",
                 "team": "Comunicación oficial",
                 "notifications": {
                     "all": "Tolos mensaxes",
@@ -203,7 +203,7 @@
                 },
                 "message_saved": "Guardar nes tos notes",
                 "failed_upload": "¡Error al xubir!",
-                "new_to_revolt": "Nuevu en Revolt",
+                "new_to_upryzing": "Nuevu en Revolt",
                 "user_timed_out": "Usuariu castigáu per {{time}}."
             },
             "groups": {

@@ -153,8 +153,8 @@
                     "others_reacted": "{{userlist}} un {{count}} citi reaģēja"
                 },
                 "team": "Oficiālā saziņa",
-                "new_to_revolt": "Jauns Revolt lietotājs",
-                "new_to_server": "Jauns šajā serverī"
+                "new_to_upryzing": "Jauns Revolt lietotājs",
+                "new_to_space": "Jauns šajā serverī"
             },
             "groups": {
                 "create": "Izveidot grupu",
@@ -229,7 +229,7 @@
                         "description": "Jebkurā laikā atspējot vai dzēst savu kontu. Abas šīs darbības tevi izrakstīs tevi no visām aktīvajām sesijām.",
                         "disable": "Atspējot kontu",
                         "delete": "Atzīmēt kontu dzēšanai",
-                        "delete_still_own_servers": "Konta dzēšana nav iespējama līdz serveri netiek dzēsti vai pārnēsāti",
+                        "delete_still_own_spaces": "Konta dzēšana nav iespējama līdz serveri netiek dzēsti vai pārnēsāti",
                         "disable_description": "Jūs nevarēsiet piekļūt savam kontam, ja vien sazināsieties ar palīdzību - tomēr jūsu dati netiks dzēsti."
                     }
                 },

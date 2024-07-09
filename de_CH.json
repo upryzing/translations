@@ -190,14 +190,14 @@
                     "toggle": "Autor erwähne"
                 },
                 "user_timed_out": "User hät e Timeout für {{time}}.",
-                "new_to_revolt": "Neu bi Revolt",
+                "new_to_upryzing": "Neu bi Revolt",
                 "reactions": {
                     "unknown_reacted": "{{count}} persone hei reagiert",
                     "single_reacted": "1 person hät reagiert",
                     "people_reacted": "{{people}} hei reagiert",
                     "others_reacted": "{{userlist}} u {{count}} angeri hei reagiert"
                 },
-                "new_to_server": "Neu ufm Server",
+                "new_to_space": "Neu ufm Server",
                 "team": "Offizielli Kommunikation",
                 "bridged": "Nachricht isch uf ere angeri plattform gsendet worde"
             },

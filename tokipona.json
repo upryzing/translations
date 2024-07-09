@@ -462,8 +462,8 @@
                 "reactions": {
                     "others_reacted": "{{userlist}} en jan  ante {{count}} li pana e pilin"
                 },
-                "new_to_revolt": "ilo Revolt la sin",
-                "new_to_server": "ma ni la sin",
+                "new_to_upryzing": "ilo Revolt la sin",
+                "new_to_space": "ma ni la sin",
                 "bridge": "o kama wan"
             },
             "servers": {

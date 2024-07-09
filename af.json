@@ -180,7 +180,7 @@
                 "bot": "Bot",
                 "bridge": "brug",
                 "bridged": "Boodskap was op 'n ander platform gestuur",
-                "new_to_revolt": "Nuut by Revolt",
+                "new_to_upryzing": "Nuut by Revolt",
                 "team": "Amptelike Inligting",
                 "user_timed_out": "Gebruikeris vir {{time}} verstil.",
                 "notifications": {
@@ -204,7 +204,7 @@
                     "nochannel": "Geen kanaal nie"
                 },
                 "unknown_user": "<Onbekende Gebruiker>",
-                "new_to_server": "Nuut by hierdie bediener"
+                "new_to_space": "Nuut by hierdie bediener"
             },
             "groups": {
                 "create": "Skep 'n groep",

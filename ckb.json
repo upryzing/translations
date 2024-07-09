@@ -200,8 +200,8 @@
                     "unknown_reacted": "{{count}} خەڵک کاردانەوەیان هەبوو",
                     "people_reacted": "{{people}} کاردانەوەی"
                 },
-                "new_to_revolt": "نوێ بۆ ‫Revolt",
-                "new_to_server": "نوێ بۆ ئەم سێرڤەرە"
+                "new_to_upryzing": "نوێ بۆ ‫Revolt",
+                "new_to_space": "نوێ بۆ ئەم سێرڤەرە"
             },
             "groups": {
                 "create": "گروپێک دروست بکە",

@@ -96,8 +96,8 @@
                 },
                 "bridged": "Съобщението бе изпратено от друга платформа",
                 "team": "Официална комуникация",
-                "new_to_revolt": "Нов в Revolt",
-                "new_to_server": "Нов в този сървър"
+                "new_to_upryzing": "Нов в Revolt",
+                "new_to_space": "Нов в този сървър"
             },
             "servers": {
                 "custom_banner": "Персонализиран банер",

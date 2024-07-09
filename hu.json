@@ -160,8 +160,8 @@
                     "single_reacted": "1 személy reagált",
                     "people_reacted": "{{people}} személy reagált"
                 },
-                "new_to_revolt": "Nemrég lett Revoltja",
-                "new_to_server": "Nemrég csatlakozott a szerverhez"
+                "new_to_upryzing": "Nemrég lett Revoltja",
+                "new_to_space": "Nemrég csatlakozott a szerverhez"
             },
             "groups": {
                 "name": "Csoportnév",

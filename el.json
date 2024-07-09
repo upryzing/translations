@@ -761,8 +761,8 @@
                 "user_timed_out": "Ο χρήστης έχει time out για {{time}}.",
                 "bridged": "Το μήνυμα εστάλη από άλλη πλατφόρμα",
                 "team": "Επίσημη Επικοινωνία",
-                "new_to_server": "Νέος σε αυτό τον server",
-                "new_to_revolt": "Νέος στο Revolt",
+                "new_to_space": "Νέος σε αυτό τον server",
+                "new_to_upryzing": "Νέος στο Revolt",
                 "reactions": {
                     "others_reacted": "{{userlist}} και άλλοι {{count}} αντέδρασαν",
                     "unknown_reacted": "{{count}} άτομα αντέδρασαν",

@@ -192,8 +192,8 @@
                 },
                 "bridge": "urë",
                 "user_timed_out": "Ky përdorues nuk lejohet të çoj mesazh për {{time}}.",
-                "new_to_revolt": "I ri në Revolt",
-                "new_to_server": "I ri në këtë server",
+                "new_to_upryzing": "I ri në Revolt",
+                "new_to_space": "I ri në këtë server",
                 "bridged": "Mesazhi është nisur mbi një platform tjetër",
                 "team": "Komunikim Zyrtar",
                 "reactions": {

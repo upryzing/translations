@@ -183,8 +183,8 @@
                     "single_reacted": "1 người đã bày tỏ cảm xúc",
                     "people_reacted": "{{people}} đã bày tỏ cảm xúc"
                 },
-                "new_to_revolt": "Mới dùng Revolt",
-                "new_to_server": "Mới vào server này"
+                "new_to_upryzing": "Mới dùng Revolt",
+                "new_to_space": "Mới vào server này"
             },
             "groups": {
                 "create": "Tạo nhóm",

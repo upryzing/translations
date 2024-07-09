@@ -184,8 +184,8 @@
                     "single_reacted": "Eine Person hat reagiert",
                     "people_reacted": "{{people}} haben reagiert"
                 },
-                "new_to_revolt": "Neu bei Revolt",
-                "new_to_server": "Neu bei diesem Server"
+                "new_to_upryzing": "Neu bei Revolt",
+                "new_to_space": "Neu bei diesem Server"
             },
             "groups": {
                 "name": "Gruppenname",

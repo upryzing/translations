@@ -113,8 +113,8 @@
                     "unknown_reacted": "{{count}} scallywags put a message in the bottle",
                     "people_reacted": "{{people}} put a message in a bottle"
                 },
-                "new_to_revolt": "New to Mutiny",
-                "new_to_server": "New to this part of ye' sea",
+                "new_to_upryzing": "New to Mutiny",
+                "new_to_space": "New to this part of ye' sea",
                 "user_timed_out": "Pirate has been sent to th' sea for {{time}}."
             },
             "groups": {

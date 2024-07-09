@@ -348,8 +348,8 @@
                     "people_reacted": "{{people}} sta/so reagirala/i",
                     "others_reacted": "{{userlist}} in {{count}} drugih je reagiralo"
                 },
-                "new_to_revolt": "Novi na Revolt-u",
-                "new_to_server": "Novi v tem strežniku",
+                "new_to_upryzing": "Novi na Revolt-u",
+                "new_to_space": "Novi v tem strežniku",
                 "bridged": "Sporočilo je bilo poslano na drugi platformi"
             },
             "servers": {

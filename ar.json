@@ -154,8 +154,8 @@
                 "user_timed_out": "المستخدم موقف عن إرسال الرسائل لمدة {{time}}.",
                 "bridged": "هذه الرسالة مرسلة من منصة أخرى",
                 "team": "التواصل الرسمي",
-                "new_to_revolt": "جديد على Revolt",
-                "new_to_server": "جديد على هذا السيرفر",
+                "new_to_upryzing": "جديد على Revolt",
+                "new_to_space": "جديد على هذا السيرفر",
                 "reactions": {
                     "unknown_reacted": "{{count}} اشخاص تفاعلوا",
                     "single_reacted": "شخص واحد تفاعل",

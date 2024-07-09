@@ -267,7 +267,7 @@
                         "description": "Dezactivează sau șterge contul tău în orice moment. Ambele acțiuni te vor deconecta din sesiunile active.",
                         "disable_description": "Nu îți vei putea accesa contul decât dacă contactezi asistența - însă, datele tale nu vor fi șterse.",
                         "delete_description": "Contul tău și toate datele tale (inclusiv mesajele și lista de prieteni) vor fi puse în coadă pentru ștergere. Se va trimite un e-mail de confirmare - poți anula această acțiune în termen de 7 zile, contactând serviciul de asistență.",
-                        "delete_still_own_servers": "Nu se poate șterge contul până când serverele nu sunt șterse sau transferate"
+                        "delete_still_own_spaces": "Nu se poate șterge contul până când serverele nu sunt șterse sau transferate"
                     }
                 },
                 "feedback": {
@@ -706,14 +706,14 @@
                 "user_timed_out": "Utilizatorul este pus pe pauză timp de {{time}}.",
                 "team": "Comunicare oficială",
                 "bridged": "Mesajul a fost trimis de pe o altă platformă",
-                "new_to_revolt": "Nou venit la Revolt",
+                "new_to_upryzing": "Nou venit la Revolt",
                 "reactions": {
                     "others_reacted": "{{userlist}} și alți {{count}} au reacționat",
                     "unknown_reacted": "{{count}} persoane au reacționat",
                     "single_reacted": "O persoană a reacționat",
                     "people_reacted": "{{people}} au reacționat"
                 },
-                "new_to_server": "Nou venit pe acest server"
+                "new_to_space": "Nou venit pe acest server"
             },
             "categories": {
                 "members": "Membri",

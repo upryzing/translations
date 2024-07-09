@@ -160,8 +160,8 @@
                     "people_reacted": "{{people}} отреагировали",
                     "unknown_reacted": "{{count}} людей отреагировало"
                 },
-                "new_to_revolt": "Новый в Revolt",
-                "new_to_server": "Новичок на этом сервере"
+                "new_to_upryzing": "Новый в Revolt",
+                "new_to_space": "Новичок на этом сервере"
             },
             "categories": {
                 "members": "Участники",

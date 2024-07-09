@@ -180,8 +180,8 @@
                     "single_reacted": "1 kişi tepki verdi",
                     "people_reacted": "{{people}} tepki verdi"
                 },
-                "new_to_revolt": "Revolt'ta yeni",
-                "new_to_server": "Bu sunucuda yeni"
+                "new_to_upryzing": "Revolt'ta yeni",
+                "new_to_space": "Bu sunucuda yeni"
             },
             "groups": {
                 "name": "Grup Adı",
@@ -221,7 +221,7 @@
                         "disable": "Hesabı devre dışı bırak",
                         "disable_description": "Destek ekibiyle iletişime geçmediğin sürece hesabına erişemezsin - fakat verilerin silinmez.",
                         "delete_description": "Hesabın ve bütün verilerin (mesajların ve arkadaş listen dahil) silinmek için sıraya alınacak. Bir doğrulama epostası gönderilecek - bunu destekle iletişim kurarak 7 gün içerisinde iptal edebilirsin.",
-                        "delete_still_own_servers": "Sunucular silinene veya aktarılana kadar hesap silinemez"
+                        "delete_still_own_spaces": "Sunucular silinene veya aktarılana kadar hesap silinemez"
                     },
                     "unique_id": "Bu, hesabınız için benzersiz bir kullanıcı tanımlayıcısı.",
                     "2fa": {

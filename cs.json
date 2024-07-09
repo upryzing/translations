@@ -160,8 +160,8 @@
                     "unknown_reacted": "{{count}} lidí zareagovalo",
                     "single_reacted": "1 osoba zareagovala"
                 },
-                "new_to_revolt": "Nový v Revoltu",
-                "new_to_server": "Nový na tomto serveru"
+                "new_to_upryzing": "Nový v Revoltu",
+                "new_to_space": "Nový na tomto serveru"
             },
             "categories": {
                 "members": "Členové",
@@ -494,7 +494,7 @@
                         "delete": "Označit účet k odstranění",
                         "disable_description": "Ke svému účtu nebudete mít přístup, pokud nekontaktujete podporu – vaše data nicméně nebudou smazána.",
                         "delete_description": "Váš účet a všechna vaše data (včetně vašich zpráv a seznamu přátel) budou zařazeny do fronty na odstranění. Bude vám odeslán potvrzovací e-mail – tuto akci můžete do 7 dnů zrušit kontaktováním podpory.",
-                        "delete_still_own_servers": "Účet nemůžete smazat, dokud neodstraníte nebo nepřevedete servery"
+                        "delete_still_own_spaces": "Účet nemůžete smazat, dokud neodstraníte nebo nepřevedete servery"
                     },
                     "unique_id": "Toto je jedinečný identifikátor uživatele pro váš účet."
                 },

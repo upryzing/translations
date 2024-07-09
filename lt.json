@@ -154,8 +154,8 @@
                 "user_timed_out": "Naudotojas sulaikytas {{time}}.",
                 "bridged": "Žinutė buvo išsiųsta kitoje platformoje",
                 "team": "Oficialus pranešimas",
-                "new_to_revolt": "Revolt naujokas",
-                "new_to_server": "Serverio naujokas",
+                "new_to_upryzing": "Revolt naujokas",
+                "new_to_space": "Serverio naujokas",
                 "reactions": {
                     "others_reacted": "{{userlist}} ir dar {{count}} sureagavo",
                     "unknown_reacted": "{{count}} žmonės sureagavo",

@@ -177,8 +177,8 @@
                 "user_timed_out": "Карыстальнік адхілены на {{time}}.",
                 "bridged": "Паведамленне было адпраўлена з іншай платформы",
                 "team": "Афіцыйныя зносіны",
-                "new_to_revolt": "Новы ў Revolt",
-                "new_to_server": "Новы на гэтым серверы",
+                "new_to_upryzing": "Новы ў Revolt",
+                "new_to_space": "Новы на гэтым серверы",
                 "reactions": {
                     "others_reacted": "{{userlist}} і {{count}} іншых адрэагавалі",
                     "unknown_reacted": "{{count}} людзей адрэагавала",

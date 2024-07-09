@@ -147,8 +147,8 @@
                     "others_reacted": "{{userlist}} og {{count}} andre har reageret",
                     "unknown_reacted": "{{count}} personer har reageret"
                 },
-                "new_to_server": "Ny på denne server",
-                "new_to_revolt": "Ny til Revolt"
+                "new_to_space": "Ny på denne server",
+                "new_to_upryzing": "Ny til Revolt"
             },
             "categories": {
                 "members": "Medlemmer",

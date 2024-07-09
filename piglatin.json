@@ -722,8 +722,8 @@
                 "user_timed_out": "Useryay isway imedtay outway orfay {{time}}.",
                 "team": "Officialyay ommunicationcay",
                 "bridged": "Essagemay asway entsay onyay anotheryay latformpay",
-                "new_to_server": "Ewnay otay histay erversay",
-                "new_to_revolt": "Ewnay otay Evoltray",
+                "new_to_space": "Ewnay otay histay erversay",
+                "new_to_upryzing": "Ewnay otay Evoltray",
                 "reactions": {
                     "others_reacted": "{{userlist}} ndaay {{count}} thersoay eactedaay",
                     "unknown_reacted": "{{count}} eoplepay eactedray",

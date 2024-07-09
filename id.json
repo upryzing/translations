@@ -482,8 +482,8 @@
                 "user_timed_out": "Pengguna diberi timeout selama {{time}}.",
                 "bridged": "Pesan dikirim dari platform lain",
                 "team": "Komunikasi Resmi",
-                "new_to_revolt": "Baru di Revolt",
-                "new_to_server": "Baru di server ini",
+                "new_to_upryzing": "Baru di Revolt",
+                "new_to_space": "Baru di server ini",
                 "reactions": {
                     "others_reacted": "{{userlist}} dan {{count}} orang lainnya memberi reaksi",
                     "unknown_reacted": "{{count}} orang memberi reaksi",

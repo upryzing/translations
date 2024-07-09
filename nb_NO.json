@@ -408,8 +408,8 @@
                     "unknown_reacted": "{{count}} reagerte",
                     "single_reacted": "1 person reagerte"
                 },
-                "new_to_revolt": "Ny til Revolt",
-                "new_to_server": "Ny til denne serveren"
+                "new_to_upryzing": "Ny til Revolt",
+                "new_to_space": "Ny til denne serveren"
             },
             "servers": {
                 "voice_channel": "Talekanal",

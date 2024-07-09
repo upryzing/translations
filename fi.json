@@ -154,8 +154,8 @@
                 "team": "Virallinen viestintä",
                 "bridged": "Viesti on lähetetty toisella alustalla",
                 "user_timed_out": "Käyttäjä on aikakatkaistu ajaksi {{time}}.",
-                "new_to_revolt": "Uutta Revoltissa",
-                "new_to_server": "Uutta tällä palvelimella",
+                "new_to_upryzing": "Uutta Revoltissa",
+                "new_to_space": "Uutta tällä palvelimella",
                 "reactions": {
                     "others_reacted": "{{userlist}} ja {{count}} muuta reagoivat",
                     "unknown_reacted": "{{count}} käyttäjää reagoivat",

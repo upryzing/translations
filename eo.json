@@ -90,14 +90,14 @@
                 "user_timed_out": "Uzanto estas tempolimigita dum {{time}}.",
                 "team": "Oficiala komunikaĵo",
                 "bridged": "Mesaĝo sendiĝis ĉe alia platformo",
-                "new_to_revolt": "Nove en Revolt",
+                "new_to_upryzing": "Nove en Revolt",
                 "reactions": {
                     "unknown_reacted": "{{count}} homoj reagis",
                     "single_reacted": "1 homo reagis",
                     "people_reacted": "{{people}} reagis",
                     "others_reacted": "{{userlist}} kaj {{count}} aliaj reagis"
                 },
-                "new_to_server": "Nove en ĉi tiu servilo"
+                "new_to_space": "Nove en ĉi tiu servilo"
             },
             "categories": {
                 "members": "Membroj",

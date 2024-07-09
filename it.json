@@ -313,8 +313,8 @@
                     "single_reacted": "1 persona ha reagito",
                     "people_reacted": "{{people}} hanno reagito"
                 },
-                "new_to_revolt": "Nuovə su Revolt",
-                "new_to_server": "Nuovə su questo server"
+                "new_to_upryzing": "Nuovə su Revolt",
+                "new_to_space": "Nuovə su questo server"
             },
             "groups": {
                 "create": "Crea un gruppo",
@@ -388,7 +388,7 @@
                         "description": "Disattiva o elimina il tuo account in qualsiasi momento. Queste azioni ti disconnetteranno dalle tue sessioni attive.",
                         "disable_description": "Non sarai in grado di accedere al tuo account a meno che non contatti il supporto - Tuttavia, i tuoi dati non verranno cancellati.",
                         "delete_description": "Il tuo account e tuti i tuoi dati (inclusi i tuoi messaggi e la tua lista degli amici) verrano messi in coda per essere eliminati. Una mail di conferma verra spedita - puoi canellare questa operazione nel giro di 7 giorni contattando il supporto.",
-                        "delete_still_own_servers": "Non puoi cancellare un account finché tutti i tuoi server non sono cancellati o non sono trasferiti"
+                        "delete_still_own_spaces": "Non puoi cancellare un account finché tutti i tuoi server non sono cancellati o non sono trasferiti"
                     }
                 },
                 "profile": {

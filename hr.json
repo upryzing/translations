@@ -87,10 +87,10 @@
                     "toggle": "Uključi ping za autora"
                 },
                 "bridge": "most",
-                "new_to_revolt": "Novi na Revoltu",
+                "new_to_upryzing": "Novi na Revoltu",
                 "team": "Službena komunikacija",
                 "bridged": "Poruka je poslana na drugoj platformi",
-                "new_to_server": "Novi u serveru",
+                "new_to_space": "Novi u serveru",
                 "user_timed_out": "Korisnik je stavljen u time-out na {{time}}.",
                 "reactions": {
                     "unknown_reacted": "{{count}} ljudi je reagiralo",

@@ -443,8 +443,8 @@
                 "user_timed_out": "ユーザーは{{time}}間タイムアウトされています。",
                 "bridged": "別のプラットフォームでメッセージが送信された",
                 "team": "公式コミュニティー",
-                "new_to_revolt": "Revoltの初心者",
-                "new_to_server": "このサーバーの新機能",
+                "new_to_upryzing": "Revoltの初心者",
+                "new_to_space": "このサーバーの新機能",
                 "reactions": {
                     "others_reacted": "{{userlist}}と{{count}} 人が反応しました",
                     "unknown_reacted": "{{count}} 人が反応しました",

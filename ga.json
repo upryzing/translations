@@ -178,8 +178,8 @@
                 "team": "Cumarsáid Oifigiúil",
                 "bridge": "droichead",
                 "user_timed_out": "Tá an t-am istigh ag úsáideoir {{time}}.",
-                "new_to_revolt": "Nua san Revolt",
-                "new_to_server": "Nua don fhreastalaí seo",
+                "new_to_upryzing": "Nua san Revolt",
+                "new_to_space": "Nua don fhreastalaí seo",
                 "reactions": {
                     "others_reacted": "D'fhreagair {{userlist}} agus {{count}} duine eile",
                     "unknown_reacted": "D'fhreagair {{count}} duine",

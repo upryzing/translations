@@ -177,8 +177,8 @@
                 "user_timed_out": "User is timed out for {{time}}.",
                 "bridged": "Message was sent on another platform",
                 "team": "Official Communication",
-                "new_to_revolt": "New to Revolt",
-                "new_to_server": "New to this server",
+                "new_to_upryzing": "New to Revolt",
+                "new_to_space": "New to this server",
                 "reactions": {
                     "others_reacted": "{{userlist}} and {{count}} others reacted",
                     "unknown_reacted": "{{count}} people reacted",

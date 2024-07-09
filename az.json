@@ -175,8 +175,8 @@
                 "bridged": "Mesaj başqa platformada göndərildi",
                 "bridge": "körpü",
                 "team": "Rəsmi Əlaqə",
-                "new_to_revolt": "Revolt üçün yeni",
-                "new_to_server": "Bu serverdə yeni",
+                "new_to_upryzing": "Revolt üçün yeni",
+                "new_to_space": "Bu serverdə yeni",
                 "reactions": {
                     "others_reacted": "{{userlist}} və digər {{count}} nəfər reaksiya verdi",
                     "unknown_reacted": "{{count}} nəfər reaksiya verdi",

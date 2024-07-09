@@ -457,8 +457,8 @@
                 "user_timed_out": "用戶超時 {{time}}.",
                 "bridged": "訊息傳送自其他平台",
                 "team": "官方社群",
-                "new_to_revolt": "Revolt 新手",
-                "new_to_server": "伺服器新成員",
+                "new_to_upryzing": "Revolt 新手",
+                "new_to_space": "伺服器新成員",
                 "reactions": {
                     "others_reacted": "{{userlist}} 和其他 {{count}} 人做出反應",
                     "unknown_reacted": "{{count}} 人做出反應",

@@ -183,8 +183,8 @@
                     "others_reacted": "{{userlist}} এবং আরো {{count}} জন রিয়্যাক্ট করেছেন",
                     "unknown_reacted": "{{count}} জন রিয়্যাক্ট করেছেন"
                 },
-                "new_to_revolt": "Revolt-এ আপনি নতুন",
-                "new_to_server": "এই সার্ভারে আপনি নতুন"
+                "new_to_upryzing": "Revolt-এ আপনি নতুন",
+                "new_to_space": "এই সার্ভারে আপনি নতুন"
             },
             "groups": {
                 "create": "একটি গ্রুপ তৈরি করুন",

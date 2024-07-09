@@ -160,8 +160,8 @@
                     "unknown_reacted": "{{count}} personnes ont réagi",
                     "people_reacted": "{{people}} ont réagi"
                 },
-                "new_to_revolt": "Nouveau sur Revolt",
-                "new_to_server": "Nouveau sur ce serveur"
+                "new_to_upryzing": "Nouveau sur Revolt",
+                "new_to_space": "Nouveau sur ce serveur"
             },
             "categories": {
                 "conversations": "Conversations",

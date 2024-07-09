@@ -195,8 +195,8 @@
                 "bridged": "Anfonwyd y neges ar blatfform arall",
                 "team": "Gohebiaeth Swyddogol",
                 "user_timed_out": "Distewir user am {{time}}.",
-                "new_to_revolt": "Newydd i Revolt",
-                "new_to_server": "Newydd i'r gweinydd hwn",
+                "new_to_upryzing": "Newydd i Revolt",
+                "new_to_space": "Newydd i'r gweinydd hwn",
                 "reactions": {
                     "single_reacted": "Adweithiodd un person",
                     "people_reacted": "Adweithiodd {{people}}",

@@ -149,7 +149,7 @@
                 "reply": {
                     "replying": "曰"
                 },
-                "new_to_server": "初來乍到",
+                "new_to_space": "初來乍到",
                 "reactions": {
                     "single_reacted": "一人應",
                     "people_reacted": "{{people}} 應"

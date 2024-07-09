@@ -185,8 +185,8 @@
                     "single_reacted": "Una persona ha reaccionado",
                     "people_reacted": "{{people}} ha(n) reaccionado"
                 },
-                "new_to_revolt": "Nuevo/a en Revolt",
-                "new_to_server": "Nuevo/a en este servidor"
+                "new_to_upryzing": "Nuevo/a en Revolt",
+                "new_to_space": "Nuevo/a en este servidor"
             },
             "categories": {
                 "conversations": "Conversaciones",

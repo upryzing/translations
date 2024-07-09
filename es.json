@@ -97,8 +97,8 @@
                     "single_reacted": "1 persona ha reaccioando",
                     "people_reacted": "{{people}} han reaccionado"
                 },
-                "new_to_revolt": "Nuevo en Revolt",
-                "new_to_server": "Nuevo en este servidor"
+                "new_to_upryzing": "Nuevo en Revolt",
+                "new_to_space": "Nuevo en este servidor"
             },
             "categories": {
                 "members": "Miembros",

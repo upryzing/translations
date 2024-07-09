@@ -170,9 +170,9 @@
                     "people_reacted": "{{people}} acquiescent"
                 },
                 "team": "Comunicacïon publique",
-                "new_to_server": "Novel sur ce serveor",
+                "new_to_space": "Novel sur ce serveor",
                 "bridged": "Le message a été envoiié sur une autre plateforme",
-                "new_to_revolt": "Novel à REVOLT"
+                "new_to_upryzing": "Novel à REVOLT"
             },
             "groups": {
                 "create": "Créer une coterie",

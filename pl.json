@@ -184,8 +184,8 @@
                     "single_reacted": "1 osoba zareagowała",
                     "people_reacted": "{{people}} zareagowało"
                 },
-                "new_to_revolt": "Nowe w Revolt",
-                "new_to_server": "Nowe w tym serwerze"
+                "new_to_upryzing": "Nowe w Revolt",
+                "new_to_space": "Nowe w tym serwerze"
             },
             "groups": {
                 "owner": "Właściciel grupy",
@@ -553,7 +553,7 @@
                         "description": "Wyłącz lub usuń swoje konto w dowolnym momencie. Obie czynności spowodują wylogowanie z aktywnych sesji.",
                         "disable_description": "Nie będzie mógł uzyskać dostępu do swojego konta, chyba że skontaktujesz się z pomocą techniczną - jednak twoje dane nie zostaną usunięte.",
                         "delete_description": "Twoje konto i wszystkie Twoje dane (w tym wiadomości i lista znajomych) zostaną ustawione w kolejce do usunięcia. Zostanie wysłana wiadomość e-mail z potwierdzeniem - możesz ją anulować w ciągu 7 dni, kontaktując się z pomocą techniczną.",
-                        "delete_still_own_servers": "Nie można usunąć konta, dopóki serwery nie zostaną usunięte lub przeniesione"
+                        "delete_still_own_spaces": "Nie można usunąć konta, dopóki serwery nie zostaną usunięte lub przeniesione"
                     },
                     "unique_id": "To jest unikatowy identyfikator użytkownika dla twojego konta.",
                     "2fa": {
