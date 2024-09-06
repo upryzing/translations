@@ -951,7 +951,7 @@
     "MissingData": "Request is missing data.",
     "ProbeError": "Failed to get file metadata.",
     "IoError": "Server encountered an I/O error.",
-    "UnsupportedBrowser": "Browser is missing support for this feature.",
+    "UnsupportedBrowser": "Your browser does not support this feature.",
     "DeniedNotification": "You denied notification access. Check page settings.",
     "CompromisedPassword": "This password is compromised.",
     "ReachedMaximumBots": "You've reached the maximum amount of bots.",
