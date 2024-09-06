@@ -847,6 +847,7 @@
       "kick_member": "Kick member",
       "ban_member": "Ban member",
       "timeout_member": "Timeout member",
+      "clear_timeout": "Clear timeout",
       "open_file": "Open file",
       "save_file": "Save file",
       "open_image": "Open image",
