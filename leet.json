@@ -677,6 +677,15 @@
                     "silent_leave": "51L3N7LY L34V3",
                     "members_not_notified": "07H32 M3M8325 W1LL N07 83 N071F13D"
                 },
+                "timeout": {
+                    "timeout_preset_1": "60 53C0ND5",
+                    "timeout_preset_2": "5 M1NU735",
+                    "timeout_preset_3": "10 M1NU735",
+                    "timeout_preset_4": "1 H0U2",
+                    "timeout_preset_5": "1 D4Y",
+                    "timeout_preset_6": "1 W33K",
+                    "timeout_preset_custom": "CU570M"
+                },
                 "account": {
                     "change": {
                         "username": "CH4N63 Y0U2 U532N4M3",
