@@ -677,6 +677,15 @@
           "silent_leave": "Silently Leave",
           "members_not_notified": "Other members will not be notified"
         },
+        "timeout": {
+          "timeout_preset_1": "60 Seconds",
+          "timeout_preset_2": "5 Minutes",
+          "timeout_preset_3": "10 Minutes",
+          "timeout_preset_4": "1 Hour",
+          "timeout_preset_5": "1 Day",
+          "timeout_preset_6": "1 Week",
+          "timeout_preset_custom": "Custom"
+        },
         "account": {
           "change": {
             "username": "Change your username",
