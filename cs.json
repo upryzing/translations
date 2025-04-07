@@ -60,6 +60,8 @@
         "verified_account": "Váš účet byl ověřen!",
         "verified_continue": "Pokračovat k přihlášení",
         "new_password": "Nové heslo",
+        "log_out_one": "",
+        "log_out_few": "",
         "log_out_other": "Odhlásit se ze všech ostatních relací"
     },
     "app": {
