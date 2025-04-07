@@ -922,7 +922,9 @@
         "verified_account": "Ваш акаунт перевірено!",
         "verified_continue": "Продовжити вхід",
         "new_password": "Новий пароль",
-        "log_out_other": "Вийти зі всіх інших сесій"
+        "log_out_one": "",
+        "log_out_few": "",
+        "log_out_many": ""
     },
     "error": {
         "NetworkError": "Помилка мережі.",
