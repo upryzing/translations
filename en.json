@@ -213,9 +213,9 @@
         "owner": "Group Owner"
       },
       "servers": {
-        "create": "Create a server",
-        "name": "Server Name",
-        "description": "Server Description",
+        "create": "Create a space",
+        "name": "Space Name",
+        "description": "Space Description",
         "channel_name": "Channel Name",
         "channel_type": "Channel Type",
         "category_name": "Category Name",
