@@ -974,6 +974,7 @@
         "verified_account": "Kontoen din er bekreftet!",
         "verified_continue": "Fortsett å logge på",
         "new_password": "Nytt Passord",
+        "log_out_one": "",
         "log_out_other": "Logg ut av alle andre økter"
     },
     "quantities": {
