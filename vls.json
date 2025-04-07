@@ -24,6 +24,7 @@
         "totp": "Authenticatie-app",
         "recovery": "Herstelcode",
         "invite": "Invitatiecode",
+        "log_out_one": "",
         "log_out_other": "Afmelden op alle andere sessies",
         "enter": {
             "username": "Typ uw gebruikersnaam.",
