@@ -60,6 +60,7 @@
         "verified_account": "আপনার অ্যাকাউন্টকে যাচাই করা হয়ে গেছে!",
         "verified_continue": "পুনরায় লগইন করুন",
         "new_password": "নতুন পাসওয়ার্ড",
+        "log_out_one": "",
         "log_out_other": "অন্যান্য সকল সেশন থেকে লগ আউট হন"
     },
     "app": {
