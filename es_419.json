@@ -15,6 +15,8 @@
         "subtitle2": "Crear una cuenta",
         "new_password": "Nueva contraseña",
         "invite": "Código de invitación",
+        "log_out_one": "",
+        "log_out_many": "",
         "log_out_other": "Cerrar sesión en todas las otras sesiones",
         "enter": {
             "email": "Ingresa tu correo electrónico.",
