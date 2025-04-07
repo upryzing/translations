@@ -54,6 +54,7 @@
         "recovery": "Recovery Code",
         "new_password": "New Password",
         "totp": "Authenticator App",
+        "log_out_one": "",
         "log_out_other": "log out of all other devices"
     },
     "app": {
