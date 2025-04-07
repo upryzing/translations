@@ -26,6 +26,7 @@
         "new_password": "Nova parola",
         "recovery": "Kod iziskanja",
         "invite": "Kod pozvanja",
+        "log_out_one": "",
         "log_out_other": "Odjavi se od vsih zasědanij",
         "enter": {
             "username": "Vpisati vašu prědpočitanu nazvu koristnika.",
