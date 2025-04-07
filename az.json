@@ -48,6 +48,7 @@
         "totp": "Authenticator tətbiqi",
         "recovery": "Bərpa kodu",
         "new_password": "Yeni Şifrə",
+        "log_out_one": "",
         "log_out_other": "Bütün digər seanslardan çıxın"
     },
     "general": {
