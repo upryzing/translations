@@ -786,6 +786,8 @@
         "totp": "Aplikacija za autentifikaciju",
         "recovery": "Kôd za oporavak",
         "new_password": "Nova lozinka",
+        "log_out_one": "",
+        "log_out_few": "",
         "log_out_other": "Odjavi se iz svih ostalih sesija",
         "unofficial_instance": "Instanca trećeg korisnika.",
         "verifying_account": "Potvrđujemo vaš račun…",
