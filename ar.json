@@ -60,6 +60,11 @@
         "verified_account": "تم توثيق حسابك بنجاح!",
         "verified_continue": "الذهاب لتسجيل الدخول",
         "new_password": "كلمة مرور جديدة",
+        "log_out_zero": "",
+        "log_out_one": "",
+        "log_out_two": "",
+        "log_out_few": "",
+        "log_out_many": "",
         "log_out_other": "تسجيل خروج من جميع الجلسات الاخرى"
     },
     "app": {
