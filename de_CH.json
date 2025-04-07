@@ -56,6 +56,7 @@
         "recovery": "Wiederherstelligscode",
         "totp": "Authentifizierigs-App",
         "new_password": "Nöie Passwort",
+        "log_out_one": "",
         "log_out_other": "Vo aui anderi Sitzige abmälde",
         "unofficial_instance": "Drittanbieter-Instanz.",
         "verifying_account": "Account wird verifiziert…",
