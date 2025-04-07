@@ -880,6 +880,8 @@
         "verified_account": "Sua conta foi verificada!",
         "verified_continue": "Continue para entrar",
         "new_password": "Nova senha",
+        "log_out_one": "",
+        "log_out_many": "",
         "log_out_other": "Encerrar todas as outras sessões"
     },
     "general": {
