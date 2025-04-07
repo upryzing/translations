@@ -60,7 +60,9 @@
         "verified_account": "Twoje konto zostało zweryfikowane!",
         "verified_continue": "Przejdź do logowania",
         "new_password": "Nowe hasło",
-        "log_out_other": "Wylogowanie ze wszystkich innych sesji"
+        "log_out_one": "",
+        "log_out_few": "",
+        "log_out_many": ""
     },
     "app": {
         "status": {
