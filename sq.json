@@ -60,6 +60,7 @@
         "verifying_account": "Po verifikojmë llogarinë tënde…",
         "verified_account": "Llogaria juaj është verifikuar!",
         "new_password": "Fjalëkalimi i ri",
+        "log_out_one": "",
         "log_out_other": "Dilni nga të gjitha seancat e tjera"
     },
     "app": {
