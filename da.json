@@ -48,6 +48,7 @@
         "verified_account": "Din bruger er bekræftet!",
         "verified_continue": "Fortsæt til login",
         "new_password": "Ny Adgangskode",
+        "log_out_one": "",
         "log_out_other": "Log ud af alle andre sessioner"
     },
     "app": {
