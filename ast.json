@@ -59,6 +59,7 @@
         "username": "Nome d'usuariu",
         "new_password": "Nueva contraseña",
         "invite": "Código d'invitación",
+        "log_out_one": "",
         "log_out_other": "Zarrar toles otres sesiones",
         "set_password": "Establecer una nueva contraseña",
         "missing_verification": "¿Nun ricibisti el corréu?",
