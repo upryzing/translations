@@ -691,7 +691,8 @@
             "username": "Change your username",
             "email": "Change your email",
             "password": "Change your password",
-            "display_name": "Change your display name"
+            "display_name": "Change your display name",
+            "pronouns": "Change your pronouns"
           },
           "failed": "Failed to change!"
         },
