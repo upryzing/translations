@@ -60,6 +60,8 @@
         "verified_account": "Votre compte a bien été vérifié !",
         "verified_continue": "Continuer vers la page de connexion",
         "new_password": "Nouveau mot de passe",
+        "log_out_one": "",
+        "log_out_many": "",
         "log_out_other": "Se déconnecter de toutes les autres sessions"
     },
     "app": {
