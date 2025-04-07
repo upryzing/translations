@@ -60,6 +60,7 @@
         "verifying_account": "Vahvistetaan tiliäsi…",
         "verified_continue": "Jatka kirjautumaan",
         "new_password": "Uusi salasana",
+        "log_out_one": "",
         "log_out_other": "Kirjaudu ulos kaikista muista istunnoista"
     },
     "app": {
