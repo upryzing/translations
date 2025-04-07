@@ -54,6 +54,7 @@
         "subtitle": "Inscribe",
         "unofficial_instance": "Tertiae partis instantiae.",
         "new_password": "Novum Password",
+        "log_out_one": "",
         "log_out_other": "Log ex omnibus aliis sessionibus",
         "verifying_account": "Probari ratione vestra…",
         "verified_account": "Ratio tua verificatur!",
