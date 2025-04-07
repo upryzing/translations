@@ -60,6 +60,7 @@
         "verified_account": "Your account has been verified!",
         "verified_continue": "Continue to login",
         "new_password": "New Password",
+        "log_out_one": "",
         "log_out_other": "Log out of all other sessions"
     },
     "app": {
