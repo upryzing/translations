@@ -25,6 +25,7 @@
         "recovery": "Code Pang-recover",
         "invite": "Code Pang-imbita",
         "current_password": "Password Karon",
+        "log_out_one": "",
         "log_out_other": "Pag-log out sa tanang uban pang sesyon",
         "enter": {
             "username": "Ibutang ang imong username.",
