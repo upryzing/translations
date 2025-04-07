@@ -873,6 +873,7 @@
         "totp": "Taga-authenticate na app",
         "recovery": "Kodigo ng Pagbawi",
         "new_password": "Bagong Password",
+        "log_out_one": "",
         "log_out_other": "Mag-log out sa lahat ng iba pang mga sesyon",
         "verifying_account": "Bine-verify ang iyong account…",
         "verified_account": "Na-verify na ang iyong account!",
