@@ -27,6 +27,7 @@
         "totp": "Aplicación de autenticación",
         "invite": "Código de invitación",
         "current_password": "Contrasinal actual",
+        "log_out_one": "",
         "log_out_other": "Pechar tódalas outras sesións",
         "enter": {
             "password": "Escribe o teu contrasinal.",
