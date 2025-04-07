@@ -893,6 +893,7 @@
         "verified_account": "Yow acownt has bin werifyd! *-*",
         "verified_continue": "Continyu tu lyogin",
         "new_password": "Nyew Passwowd",
+        "log_out_one": "",
         "log_out_other": "Wog out of aww othew sessions"
     },
     "dayjs": {
