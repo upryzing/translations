@@ -55,6 +55,7 @@
             "verify": "Bewys het misluk!"
         },
         "register": "Sluit aan",
+        "log_out_one": "",
         "log_out_other": "Teken by alle ander sessies uit",
         "remembered": "Gaan terug na intekening",
         "verified_continue": "Gaan voort na intekening toe",
