@@ -56,6 +56,8 @@
         "totp": "אפליקציית אימות",
         "recovery": "קוד שחזור",
         "new_password": "סיסמה חדשה",
+        "log_out_one": "",
+        "log_out_two": "",
         "log_out_other": "התנתק מכל המכשירים",
         "verifying_account": "מאמת את המשתמש שלך…",
         "verified_account": "חשבונך אומת בהצלחה!",
