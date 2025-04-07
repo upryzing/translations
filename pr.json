@@ -715,6 +715,7 @@
         "verifying_account": "Verifying yer 'count…",
         "verified_account": "Yer 'count has been verified!",
         "recovery": "'Covery Code",
+        "log_out_one": "",
         "log_out_other": "Bail out of 'em other ships",
         "totp": "Authenticatarr App"
     },
