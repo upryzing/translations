@@ -178,6 +178,8 @@
         "verified_account": "Il tuo account è stato verificato!",
         "verified_continue": "Continua ad effettuare il login",
         "new_password": "Nuova Password",
+        "log_out_one": "",
+        "log_out_many": "",
         "log_out_other": "Esci da tutte le altre sessioni"
     },
     "general": {
