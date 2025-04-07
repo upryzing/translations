@@ -45,6 +45,8 @@
         "totp": "Autentifikācijas lietotne",
         "recovery": "Piekļuves atgūšanas kods",
         "new_password": "Jauna parole",
+        "log_out_zero": "",
+        "log_out_one": "",
         "log_out_other": "Atteikt no visām citām sesijām",
         "verified_account": "Tavs konts ir verificēts!",
         "verifying_account": "Notiek tava konta verificēšana…",
