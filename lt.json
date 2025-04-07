@@ -60,6 +60,8 @@
         "verified_continue": "Eiti į prisijungimą",
         "verifying_account": "Patvirtinama jūsų paskyra…",
         "new_password": "Naujas slaptažodis",
+        "log_out_one": "",
+        "log_out_few": "",
         "log_out_other": "Atsijungti nuo visų kitų sesijų"
     },
     "app": {
