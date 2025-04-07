@@ -60,6 +60,7 @@
         "verified_account": "खाता सत्यापित हुआ!",
         "verified_continue": "लॉगिन करना जारी रखें",
         "new_password": "नया पासवर्ड",
+        "log_out_one": "",
         "log_out_other": "अन्य सभी सत्रों से लॉग आउट करें"
     },
     "app": {
