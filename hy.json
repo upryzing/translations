@@ -26,6 +26,7 @@
         "totp": "Authenticator հավելված",
         "invite": "Հրավիրել կոդը",
         "current_password": "Ընթացիկ գաղտնաբառը",
+        "log_out_one": "",
         "log_out_other": "Դուրս գալ մնացած բոլոր նիստերից",
         "enter": {
             "username": "Մուտքագրեք ձեր օգտվողի անունը:",
