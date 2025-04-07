@@ -29,6 +29,7 @@
         "recovery": "Oppattrettingskode",
         "invite": "Invitasjonskode",
         "current_password": "Noverande Passord",
+        "log_out_one": "",
         "log_out_other": "Logg ut av alle andre økter",
         "enter": {
             "username": "Skriv inn brukarnamnet ditt.",
