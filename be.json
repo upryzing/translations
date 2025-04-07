@@ -59,7 +59,9 @@
         "verified_account": "Ваш уліковы запіс быў пацверджаны!",
         "verified_continue": "Працягнуць уваход",
         "new_password": "Новы пароль",
-        "log_out_other": "Выйсці з іншых сеансаў",
+        "log_out_one": "",
+        "log_out_few": "",
+        "log_out_many": "",
         "verifying_account": "Пацвярджэнне вашага ўліковага запісу…"
     },
     "app": {
