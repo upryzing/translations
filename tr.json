@@ -897,6 +897,7 @@
         "verified_account": "Hesabınız doğrulandı!",
         "verified_continue": "Giriş yapmaya devam et",
         "new_password": "Yeni Şifre",
+        "log_out_one": "",
         "log_out_other": "Diğer bütün oturumlardan çıkış yap"
     },
     "quantities": {
