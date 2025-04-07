@@ -60,6 +60,7 @@
         "verified_account": "Dein Konto wurde bestätigt!",
         "verified_continue": "Weiter zur Anmeldung",
         "new_password": "Neues Passwort",
+        "log_out_one": "",
         "log_out_other": "Aus allen anderen Sitzungen abmelden"
     },
     "app": {
