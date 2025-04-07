@@ -1065,6 +1065,7 @@
         "verified_account": "حساب شما تایید شد!",
         "verified_continue": "ادامه برای ورود",
         "new_password": "رمز عبور جدید",
+        "log_out_one": "",
         "log_out_other": "از تمام جلسات دیگر خارج شوید"
     },
     "general": {
