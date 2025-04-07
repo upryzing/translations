@@ -792,6 +792,10 @@
         "verified_account": "Tá do chuntas fíoraithe!",
         "verified_continue": "Lean ort ag logáil isteach",
         "new_password": "Focal Faire Nua",
+        "log_out_one": "",
+        "log_out_two": "",
+        "log_out_few": "",
+        "log_out_many": "",
         "log_out_other": "Logáil amach as gach seisiún eile"
     },
     "quantities": {
