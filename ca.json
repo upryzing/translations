@@ -48,6 +48,8 @@
         "verified_account": "El compte vostre ha sigut verificat!",
         "verified_continue": "Continuï al inici de sessió",
         "new_password": "Nou mot de pas",
+        "log_out_one": "",
+        "log_out_many": "",
         "log_out_other": "Tanca la sessió de totes les altres sessions"
     },
     "general": {
