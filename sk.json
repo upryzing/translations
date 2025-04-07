@@ -784,6 +784,8 @@
         "verified_account": "Tvoj účet bol overený!",
         "verified_continue": "Pokračovať na prihlásenie",
         "new_password": "Nové heslo",
+        "log_out_one": "",
+        "log_out_few": "",
         "log_out_other": "Odhlásiť sa zo všetkých ostatných relácií"
     },
     "error": {
