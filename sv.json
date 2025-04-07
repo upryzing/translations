@@ -60,6 +60,7 @@
         "verified_continue": "Fortsätt att logga in",
         "verified_account": "Ditt konto har blivit verifierat!",
         "new_password": "Nytt Lösenord",
+        "log_out_one": "",
         "log_out_other": "Logga ut från alla andra sessioner"
     },
     "app": {
