@@ -60,6 +60,7 @@
         "verifying_account": "Account aan het verifiëren…",
         "verified_continue": "Naar inlogscherm",
         "new_password": "Nieuw wachtwoord",
+        "log_out_one": "",
         "log_out_other": "Log uit alle andere sessies"
     },
     "app": {
