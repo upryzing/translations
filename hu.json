@@ -60,6 +60,7 @@
         "verified_account": "A fiókod igazolva lett",
         "verified_continue": "Tovább a bejelentkezéshez",
         "new_password": "Új jelszó",
+        "log_out_one": "",
         "log_out_other": "Kijelentkezés az összes többi munkamenetből"
     },
     "app": {
