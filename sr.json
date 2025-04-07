@@ -58,6 +58,8 @@
         "verified_account": "Ваш налог је успешно верификован!",
         "verified_continue": "Наставите са улоговањем",
         "new_password": "Нова лозинка",
+        "log_out_one": "",
+        "log_out_few": "",
         "log_out_other": "Одјавите се са свих осталих уређаја",
         "recovery": "Код за опоравак",
         "unofficial_instance": "Инстанца треће стране."
