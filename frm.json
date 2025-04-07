@@ -45,6 +45,7 @@
         "recovery": "Code de recuperation",
         "verified_account": "Vostre conte a été vérifié !",
         "verified_continue": "Continüer à se connexer",
+        "log_out_one": "",
         "log_out_other": "Sortire de totes sessïons",
         "unofficial_instance": "Instance tierce.",
         "totp": "Outil de Certifficacion",
