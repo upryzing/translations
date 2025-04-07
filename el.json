@@ -863,6 +863,7 @@
         "verifying_account": "Επαληθεύουμε το λογαριασμό σου…",
         "verified_account": "Ο λογαριασμός σου επαληθεύτηκε!",
         "new_password": "Νέος Κωδικός πρόσβασης",
+        "log_out_one": "",
         "log_out_other": "Αποσύνδεση από όλες τις άλλες συνεδρίες"
     },
     "permissions": {
