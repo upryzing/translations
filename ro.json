@@ -884,6 +884,8 @@
         "verified_account": "Contul tău a fost verificat!",
         "verified_continue": "Continuare spre autentificare",
         "new_password": "Parolă nouă",
+        "log_out_one": "",
+        "log_out_few": "",
         "log_out_other": "Deconectează-te de pe celelalte sesiuni"
     },
     "general": {
