@@ -795,6 +795,7 @@
         "verified_continue": "Продължете с влизането",
         "unofficial_instance": "Екземпляр на трета страна.",
         "new_password": "Нова Парола",
+        "log_out_one": "",
         "log_out_other": "Излез от всички други сесии"
     },
     "permissions": {
