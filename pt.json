@@ -24,6 +24,8 @@
         "new_password": "Nova senha",
         "totp": "Aplicação de autenticação",
         "current_password": "Palavra-passe atual",
+        "log_out_one": "",
+        "log_out_many": "",
         "log_out_other": "Sair de todas as outras sessões",
         "enter": {
             "username": "Introduza o seu nome de usuário preferido.",
