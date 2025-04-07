@@ -430,6 +430,8 @@
         "recovery": "Còdise de Recupero",
         "totp": "Aplicasion d'Autenticasion",
         "new_password": "Nova Ciave",
+        "log_out_one": "",
+        "log_out_many": "",
         "log_out_other": "Usìr de tute łe sesioni",
         "verified_continue": "Ndar al login",
         "verifying_account": "Drio verifegar to conta…",
