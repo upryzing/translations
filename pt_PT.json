@@ -1065,6 +1065,8 @@
         "verified_account": "A tua conta foi verificada!",
         "verified_continue": "Continuar para o início de sessão",
         "new_password": "Nova palavra-passe",
+        "log_out_one": "",
+        "log_out_many": "",
         "log_out_other": "Terminar todas as outras sessões"
     },
     "general": {
