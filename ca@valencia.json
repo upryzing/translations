@@ -44,6 +44,7 @@
         "unofficial_instance": "Instància de tercers.",
         "totp": "Aplicació d'autenticació",
         "recovery": "Codi de recuperació",
+        "log_out_one": "",
         "log_out_other": "Tancar les altres sessions",
         "new_password": "Nova contrasenya",
         "verifying_account": "Verificant el teu compte…",
