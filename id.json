@@ -102,7 +102,8 @@
                         "disable": "Nonaktifkan Akun",
                         "delete": "Tandai Akun untuk Dihapus",
                         "disable_description": "Kamu tidak akan bisa mengakses akunmu kecuali dengan menghubungi bantuan - namun, datamu tidak akan dihapus.",
-                        "delete_description": "Akun dan seluruh datamu (termasuk pesan dan daftar temanmu) akan segera dihapus. Email konfirmasi akan dikirimkan - kamu bisa membatalkan penghapusan ini sebelum 7 hari dengan menghubungi bantuan."
+                        "delete_description": "Akun dan seluruh datamu (termasuk pesan dan daftar temanmu) akan segera dihapus. Email konfirmasi akan dikirimkan - kamu bisa membatalkan penghapusan ini sebelum 7 hari dengan menghubungi bantuan.",
+                        "delete_still_own_spaces": "Tidak dapat menghapus akun sampai ruang dihapus atau ditransfer"
                     }
                 },
                 "notifications": {
@@ -275,10 +276,12 @@
                             "description": "Tandai saluran ini sebagai telah dibaca."
                         },
                         "developer_toggle_all_experiments": {
-                            "description": "Ini akan mengaktifkan/menonaktifkan semua percobaan."
+                            "description": "Ini akan mengaktifkan/menonaktifkan semua percobaan.",
+                            "title": "Alihkan mode aman eksperimen"
                         },
                         "navigate_previous_context": {
-                            "title": "Arahkan ke konteks sebelumnya"
+                            "title": "Arahkan ke konteks sebelumnya",
+                            "description": "Pintasan tombol tingkat lanjut yang biasanya digunakan untuk menutup halaman pengaturan, modal, atau popup dan kembali ke konteks sebelumnya."
                         }
                     },
                     "add_keybind": "Tambah pintasan baru",
@@ -498,12 +501,12 @@
                 "conversations": "Percakapan"
             },
             "servers": {
-                "create": "Buat sebuah server",
+                "create": "Buat sebuah ruang",
                 "channel_type": "Jenis Saluran",
                 "voice_channel": "Saluran Suara",
                 "text_channel": "Saluran Teks",
-                "name": "Nama Server",
-                "description": "Deskripsi Server",
+                "name": "Nama Ruang",
+                "description": "Deskripsi Ruang",
                 "channel_name": "Nama Saluran",
                 "channel_description": "Deskripsi Saluran",
                 "owner": "Pemilik Server",
@@ -574,22 +577,25 @@
                     "edit": "Edit",
                     "send_email": "Kirim Email",
                     "reveal": "Perlihatkan",
-                    "ban": "Ban",
+                    "ban": "Larang",
                     "reload": "Muat Ulang Aplikasi",
                     "preview": "Pratinjau",
-                    "kick": "Keluarkan",
+                    "kick": "Usir",
                     "remove": "Hapus",
                     "done": "Selesai",
                     "confirm": "Konfirmasi",
                     "reset": "Atur Ulang",
                     "report": "Laporkan",
-                    "dont_block": "Jangan blokir"
+                    "dont_block": "Jangan blokir",
+                    "timeout": "Batasi waktu"
                 },
                 "account": {
                     "change": {
                         "password": "Ubah sandimu",
                         "username": "Ubah nama pengguna kamu",
-                        "email": "Ubah emailmu"
+                        "email": "Ubah emailmu",
+                        "display_name": "Ganti nama tampilan Anda",
+                        "pronouns": "Ubah kata ganti Anda"
                     },
                     "failed": "Gagal mengubah!"
                 },
@@ -611,7 +617,9 @@
                     "confirm_close_dm_long": "Kamu dapat membukanya kembali nanti, namun percakapan akan hilang di kedua sisi.",
                     "create_invite_created": "Ini kode undangan barumu:",
                     "silent_leave": "Tinggalkan Diam-Diam",
-                    "members_not_notified": "Anggota lain tidak akan diberitahu"
+                    "members_not_notified": "Anggota lain tidak akan diberitahu",
+                    "confirm_timeout": "Apakah Anda yakin ingin membatasi waktu {{name}}?",
+                    "confirm_timeout_amount": "Jumlah Batas Waktu"
                 },
                 "external_links": {
                     "title": "Tautan eksternal bisa berbahaya!",
@@ -680,6 +688,15 @@
                 "edit_keybind": {
                     "placeholder": "Tekan tombol untuk direkam",
                     "title": "Edit tombol untuk {{action}}"
+                },
+                "timeout": {
+                    "preset_1": "60 dtk",
+                    "preset_2": "5 mnt",
+                    "preset_3": "10 mnt",
+                    "preset_4": "1 jam",
+                    "preset_5": "1 hari",
+                    "preset_6": "1 minggu",
+                    "preset_custom": "Khusus"
                 }
             },
             "status": {
@@ -766,16 +783,16 @@
             "reply_message": "Balas",
             "quote_message": "Kutip pesan",
             "mention": "Sebut",
-            "kick_member": "Keluarkan anggota",
+            "kick_member": "Usir anggota",
             "copy_selection": "Salin pilihan",
             "copy_sid": "Salin ID server",
             "copy_message_link": "Salin tautan pesan",
             "message_user": "Pesan",
             "mark_as_read": "Tandai sebagai telah dibaca",
-            "ban_member": "Ban anggota",
+            "ban_member": "Larang anggota",
             "copy_link": "Salin tautan",
             "open_link": "Buka tautan",
-            "unblock_user": "Buka Blokir",
+            "unblock_user": "Buka blokir pengguna",
             "cancel_friend": "Batalkan permintaan",
             "open_notification_options": "Pengaturan notifikasi",
             "clear_status": "Hapus status",
@@ -786,7 +803,12 @@
             "make_owner": "Berikan kepemilikan grup",
             "report_message": "Laporkan pesan",
             "report_user": "Laporkan pengguna",
-            "report_server": "Laporkan server"
+            "report_server": "Laporkan server",
+            "timeout_member": "Batasi waktu anggota",
+            "clear_timeout": "Hapus batas waktu",
+            "accept_friend": "Terima permintaan pertemanan",
+            "reject_friend": "Tolak permintaan pertemanan",
+            "edit_your_identity": "Edit identitas Anda"
         },
         "permissions": {
             "required": "Izin dibutuhkan"
@@ -840,9 +862,9 @@
             "username": "Masukkan nama penggunamu.",
             "new_password": "Masukkan sandi baru."
         },
-        "current_password": "Sandi Saat Ini",
+        "current_password": "Kata Sandi Saat Ini",
         "invite": "Kode Undangan",
-        "password": "Sandi",
+        "password": "Kata Sandi",
         "email": "Email",
         "username": "Nama Pengguna",
         "register": "Daftar",
@@ -853,12 +875,12 @@
         "welcome2": "Halo!",
         "subtitle2": "Buat akun",
         "unofficial_instance": "Instansi pihak ketiga.",
-        "totp": "Aplikasi Autentikasi",
+        "totp": "Aplikasi Autentikator",
         "recovery": "Kode Pemulihan",
         "verifying_account": "Memverifikasi akunmu…",
         "verified_account": "Akunmu telah diverifikasi!",
         "verified_continue": "Lanjut masuk",
-        "new_password": "Sandi Baru",
+        "new_password": "Kata Sandi Baru",
         "log_out_other": "Keluarkan akun pada semua sesi lain"
     },
     "general": {
@@ -867,11 +889,11 @@
         "privacy": "Kebijakan Privasi",
         "tos": "Persyaratan Layanan",
         "about": "Tentang",
-        "on": "Aktif",
-        "disabled": "Dinonaktifkan",
+        "on": "Hidup",
+        "disabled": "Dimatikan",
         "unavailable": "Tak tersedia",
-        "off": "Nonaktif",
-        "learn_more": "Ketahui lebih lanjut"
+        "off": "Mati",
+        "learn_more": "Pelajari lebih lanjut"
     },
     "error": {
         "InvalidCredentials": "Alamat email atau sandi salah.",
