@@ -417,25 +417,25 @@
                     "not_loaded": "Pesan tak termuat, klik untuk meloncat"
                 },
                 "voice": {
-                    "unmute": "Suarakan",
+                    "unmute": "Bunyikan",
                     "mute": "Bisukan",
                     "leave": "Tinggalkan",
                     "connected": "Suara terhubung"
                 },
                 "start": {
-                    "group": "Ini adalah awal dari percakapan kamu.",
-                    "saved": "Ini adalah awal dari catatan kamu."
+                    "group": "Ini adalah awal dari percakapan Anda.",
+                    "saved": "Ini adalah awal dari catatan Anda."
                 },
                 "system": {
-                    "channel_icon_changed": "{{user}} mengubah ikon saluran",
-                    "channel_description_changed": "{{user}} mengubah deskripsi saluran",
+                    "channel_icon_changed": "{{user}} mengganti ikon saluran",
+                    "channel_description_changed": "{{user}} mengganti deskripsi saluran",
                     "channel_renamed": "{{user}} mengubah nama saluran menjadi {{name}}",
-                    "removed_by": "{{user}} telah dikeluarkan oleh {{other_user}}",
+                    "removed_by": "{{user}} telah dihapus oleh {{other_user}}",
                     "added_by": "{{user}} telah ditambahkan oleh {{other_user}}",
-                    "user_left": "{{user}} keluar",
+                    "user_left": "{{user}} pergi",
                     "user_joined": "{{user}} bergabung",
-                    "user_banned": "{{user}} telah diban",
-                    "user_kicked": "{{user}} telah dikeluarkan",
+                    "user_banned": "{{user}} telah dilarang",
+                    "user_kicked": "{{user}} telah diusir",
                     "channel_ownership_changed": "{{from}} memberikan {{to}} kepemilikan grup",
                     "registered_at": "Terdaftar {{time}}"
                 },
@@ -447,9 +447,9 @@
                 "attached_file": "{{filename}} terlampir",
                 "failed_upload": "Gagal mengunggah!",
                 "uploading_file": "Mengunggah…",
-                "message_saved": "Simpan ke catatan kamu",
-                "message_who": "Kirim ke @{{person}}",
-                "message_where": "Kirim ke {{channel_name}}",
+                "message_saved": "Simpan ke catatan Anda",
+                "message_who": "Kirim pesan ke @{{person}}",
+                "message_where": "Kirim pesan ke {{channel_name}}",
                 "notifications": {
                     "none": "Tidak Ada",
                     "muted": "Disenyapkan",
@@ -479,7 +479,7 @@
                 },
                 "reply": {
                     "replying": "Membalas",
-                    "toggle": "Ping penulis"
+                    "toggle": "Beralih ping penulis"
                 },
                 "bridge": "jembatan",
                 "user_timed_out": "Pengguna diberi timeout selama {{time}}.",
@@ -488,10 +488,10 @@
                 "new_to_upryzing": "Baru di Revolt",
                 "new_to_space": "Baru di server ini",
                 "reactions": {
-                    "others_reacted": "{{userlist}} dan {{count}} orang lainnya memberi reaksi",
-                    "unknown_reacted": "{{count}} orang memberi reaksi",
-                    "single_reacted": "1 orang memberi reaksi",
-                    "people_reacted": "{{people}} memberi reaksi"
+                    "others_reacted": "{{userlist}} dan {{count}} orang lainnya memberikan tanggapan",
+                    "unknown_reacted": "{{count}} orang memberikan tanggapan",
+                    "single_reacted": "1 orang memberikan tanggapan",
+                    "people_reacted": "{{people}} memberikan tanggapan"
                 }
             },
             "categories": {
@@ -527,9 +527,9 @@
             "offline": "Luring",
             "invisible": "Tak Terlihat",
             "busy": "Jangan Ganggu",
-            "idle": "Menganggur",
+            "idle": "Diam",
             "online": "Daring",
-            "reconnect": "Sambung kembali",
+            "reconnect": "Hubungkan ulang",
             "focus": "Fokus"
         },
         "special": {
@@ -814,22 +814,22 @@
             "required": "Izin dibutuhkan"
         },
         "home": {
-            "settings-tooltip": "Kamu juga bisa klik kanan ikon pengguna di kiri atas, atau klik kiri jika kamu sedang berada di beranda.",
-            "join-testers": "Bergabung ke server penguji",
-            "goto-testers": "Pergi ke server penguji",
-            "donate": "Berdonasi ke Revolt",
-            "feedback": "Beri masukan untuk Revolt",
+            "settings-tooltip": "Anda juga bisa mengklik kanan ikon pengguna di kiri atas, atau mengklik kiri jika Anda sudah berada di beranda.",
+            "join-testers": "Bergabunglah dengan Taman Upryzing",
+            "goto-testers": "Pergi ke Taman Upryzing",
+            "donate": "Donasi ke Upryzing",
+            "feedback": "Berikan masukan di Upryzing",
             "settings": "Buka pengaturan",
             "social": "Cari server & bot",
             "directs": "Pesan Langsung",
-            "join-testers_desc": "Kamu bisa melaporkan masalah dan mendiskusikan peningkatan dengan kami secara langsung di sini.",
-            "goto-testers_desc": "Kamu bisa melaporkan masalah dan mendiskusikan peningkatan dengan kami secara langsung di sini.",
+            "join-testers_desc": "Anda bisa melaporkan masalah dan mendiskusikan perbaikan secara langsung dengan kami di sini.",
+            "goto-testers_desc": "Anda bisa melaporkan masalah dan mendiskusikan perbaikan secara langsung dengan kami di sini.",
             "donate_desc": "Dukung proyek ini dengan berdonasi - terima kasih!",
-            "group_desc": "Undang semua temanmu, beberapa bot keren, dan adakan pesta besar.",
+            "group_desc": "Undang semua teman Anda, beberapa bot keren, dan adakan pesta besar.",
             "group": "Buat grup",
-            "feedback_desc": "Beritahu kami bagaimana kami bisa tingkatkan aplikasi kami dengan memberi masukan.",
-            "discover_desc": "Cari komunitas berdasarkan hobi atau minat kamu.",
-            "discover": "Jelajahi Revolt"
+            "feedback_desc": "Beritahu kami bagaimana kami dapat meningkatkan aplikasi kami dengan memberikan kami masukan.",
+            "discover_desc": "Temukan komunitas berdasarkan hobi atau minat Anda.",
+            "discover": "Jelajahi Upryzing"
         }
     },
     "login": {
@@ -837,30 +837,30 @@
             "resend": "Gagal mengirim ulang!",
             "reset": "Gagal mengatur ulang!",
             "login": "Gagal masuk!",
-            "create": "Pendaftaran gagal!",
+            "create": "Gagal mendaftar!",
             "verify": "Gagal memverifikasi!"
         },
         "successful_registration": "Pendaftaran berhasil!",
         "open_mail_provider": "Buka {{provider}}",
-        "check_spam": "Periksa folder spam apabila kamu tidak dapat menemukannya",
-        "check_mail": "Periksa email kamu!",
+        "check_spam": "Silahkan periksa folder spam Anda jika Anda tidak dapat menemukannya",
+        "check_mail": "Periksa email Anda!",
         "cancel": "Batalkan permintaan",
         "resend": "Kirim ulang verifikasi",
-        "missing_verification": "Tidak mendapatkan email?",
+        "missing_verification": "Tidak menerima email?",
         "create": "Buat akun baru",
         "existing": "Sudah punya akun?",
-        "new": "Baru di Revolt?",
+        "new": "Baru di Upryzing?",
         "remembered": "Kembali ke halaman masuk",
-        "set_password": "Buat sandi baru",
-        "reset": "Atur ulang sandi",
-        "forgot": "Lupa sandi kamu?",
+        "set_password": "Tetapkan kata sandi baru",
+        "reset": "Atur ulang kata sandi",
+        "forgot": "Lupa kata sandi Anda?",
         "enter": {
-            "current_password": "Masukkan sandimu saat ini.",
-            "invite": "Masukkan kode undanganmu.",
-            "email": "Silakan masukkan emailmu.",
-            "password": "Masukkan sandimu.",
-            "username": "Masukkan nama penggunamu.",
-            "new_password": "Masukkan sandi baru."
+            "current_password": "Masukkan kata sandi Anda saat ini.",
+            "invite": "Masukkan kode undangan Anda.",
+            "email": "Silahkan masukkan email Anda.",
+            "password": "Masukkan kata sandi Anda.",
+            "username": "Masukkan nama pengguna yang Anda inginkan.",
+            "new_password": "Masukkan kata sandi baru."
         },
         "current_password": "Kata Sandi Saat Ini",
         "invite": "Kode Undangan",
@@ -869,17 +869,17 @@
         "username": "Nama Pengguna",
         "register": "Daftar",
         "title": "Masuk",
-        "email_delay": "Kami telah mengirimkan email verifikasi. Harap tunggu hingga 10 menit untuk email tiba.",
+        "email_delay": "Kami telah mengirimi Anda email verifikasi. Harap tunggu hingga 10 menit untuk email-nya tiba.",
         "welcome": "Selamat datang!",
-        "subtitle": "Masuk ke Revolt",
+        "subtitle": "Masuk ke Upryzing",
         "welcome2": "Halo!",
         "subtitle2": "Buat akun",
         "unofficial_instance": "Instansi pihak ketiga.",
         "totp": "Aplikasi Autentikator",
         "recovery": "Kode Pemulihan",
-        "verifying_account": "Memverifikasi akunmu…",
-        "verified_account": "Akunmu telah diverifikasi!",
-        "verified_continue": "Lanjut masuk",
+        "verifying_account": "Memverifikasi akun Anda…",
+        "verified_account": "Akun Anda telah diverifikasi!",
+        "verified_continue": "Lanjutkan untuk masuk",
         "new_password": "Kata Sandi Baru",
         "log_out_other": "Keluarkan akun pada semua sesi lain"
     },
@@ -891,7 +891,7 @@
         "about": "Tentang",
         "on": "Hidup",
         "disabled": "Dimatikan",
-        "unavailable": "Tak tersedia",
+        "unavailable": "Tidak tersedia",
         "off": "Mati",
         "learn_more": "Pelajari lebih lanjut"
     },
